@@ -6,9 +6,9 @@
 ## 👩🏻‍💻 Stats
 
 <p align="center">
-<a href="https://github.com/SAndradeTC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SAndradeTC&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAndradeTC&theme=radical&layout=compact&langs_count=8" />
+<a href="https://github.com/SarahToscano">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/SarahToscano&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/SarahToscano&theme=radical&layout=compact&langs_count=8" />
 </a>
 </p>
 
@@ -25,7 +25,7 @@
 ## :rocket: Technologies
 
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/SAndradeTC)](https://github.com/SAndradeTC) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/caiovictos)](https://github.com/SAndradeTC) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/caiovictors)](https://github.com/SAndradeTC) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/SAndradeTC)](https://github.com/SarahToscano) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/https://github.com/SarahToscano)](https://github.com/SarahToscano) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/SarahToscano)](https://github.com/SAndradeTC) 
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/SAndradeTC)](https://github.com/SAndradeTC) [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/SAndradeTC)](https://github.com/SAndradeTC) [![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react&link=https://github.com/SAndradeTC)](https://github.com/SAndradeTC)
 
