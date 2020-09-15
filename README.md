@@ -16,7 +16,7 @@ ___
 ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAndradeTC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Sarah's github stats](https://github-readme-stats.vercel.app/api?username=SAndradeTC&show_icons=true&theme=gradient)
+![Sarah's github stats](https://github-readme-stats.vercel.app/api?username=SAndradeTC&show_icons=true&theme=cobalt)
 
 
 <p align="center">
