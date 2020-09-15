@@ -1,19 +1,12 @@
 <h2 align="center">Perfil</h2>
-
-___
-
-<p align="center"; border-radius=50%>
-  <img width="500" height="300" src='https://data.whicdn.com/images/293246292/original.gif' enconde></img>
+<p align="center">
+  <img width="300" height="220" src='https://data.whicdn.com/images/293246292/original.gif' enconde></img>
 </p>
 
 
+___
 
 
-<h3 align="center">
-  <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
-  <a href="#interrobang-contato">Contato</a>&nbsp;|&nbsp;
-  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;
-</h3>
 
 ___
 
