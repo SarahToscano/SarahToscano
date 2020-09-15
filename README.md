@@ -2,7 +2,10 @@
   <img width="300" height="220" src='https://data.whicdn.com/images/293246292/original.gif' enconde></img>
 </p>
 
+
 ---
+
+## 👩🏻‍💻 Stats
 
 <p align="center">
 <a href="https://github.com/SAndradeTC">
