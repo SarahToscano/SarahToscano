@@ -15,17 +15,11 @@ ___
 
 ___
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAndradeTC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Sarah's github stats](https://github-readme-stats.vercel.app/api?username=SAndradeTC&show_icons=true&theme=cobalt)
+![Sarah's github stats](https://github-readme-stats.vercel.app/api?username=SAndradeTC&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAndradeTC&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p align="center">
-  <a href="https://github.com/SAndradeTC">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SAndradeTC&theme=gradiente&show_icons=true&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAndradeTC&theme=vue&layout=compact" />
 
-  </a>
-</p>
 
 
 ## :information_source: Sobre
