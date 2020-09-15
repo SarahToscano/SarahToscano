@@ -13,7 +13,7 @@
 
 
 ---
-## :information_source: Sobre
+## :information_source: About
   
 🎓 ** Computer Engineering Undergraduate Student - [Universidade Federal da Paraíba](https://www.ufpb.br/)**
 
