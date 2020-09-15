@@ -3,8 +3,6 @@
 </p>
 
 
----
-
 ## 👩🏻‍💻 Stats
 
 <p align="center">
