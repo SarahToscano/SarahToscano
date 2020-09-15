@@ -2,20 +2,14 @@
   <img width="300" height="220" src='https://data.whicdn.com/images/293246292/original.gif' enconde></img>
 </p>
 
-
-
-___
-
-
-
+---
 
 <p align="center">
-<a href="https://github.com/mateustoin">
+<a href="https://github.com/SAndradeTC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SAndradeTC&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAndradeTC&theme=radical&layout=compact&langs_count=8" />
 </a>
 </p>
-
 
 
 ---
