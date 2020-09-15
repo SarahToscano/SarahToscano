@@ -3,8 +3,10 @@
 ___
 
 <p align="center"; border-radius=50%>
-  <img src="https://avatars0.githubusercontent.com/u/33987228?s=460&u=47135b4580cbd76eb60fde26f945008d652b63c3&v=4" width="300" heigth="300">
+  <img width="500" height="300" src='https://data.whicdn.com/images/293246292/original.gif' enconde></img>
 </p>
+
+
 
 
 <h3 align="center">
