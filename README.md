@@ -15,7 +15,7 @@ ___
 
 ___
 
-  ![caiovictors github stats](https://github-readme-stats.vercel.app/api?username=SAndradeTC&show_icons=true&hide_border=true) <a href="https://github.com/SAndradeTC/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAndradeTC&layout=compact&hide_border=true"/></a>
+  ![SAndradeTC github stats](https://github-readme-stats.vercel.app/api?username=SAndradeTC&show_icons=true&hide_border=true) <a href="https://github.com/SAndradeTC/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAndradeTC&layout=compact&hide_border=true"/></a>
 
 
 ## :information_source: Sobre
