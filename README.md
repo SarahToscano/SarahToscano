@@ -3,7 +3,7 @@
 ___
 
 <p align="center"; border-radius=50%>
-  <img src="https://avatars0.githubusercontent.com/u/33987228?s=400&u=d07009e62be23412106e80a31337af57e28321d4&v=4" width="300" heigth="300">
+  <img src="https://avatars0.githubusercontent.com/u/33987228?s=460&u=47135b4580cbd76eb60fde26f945008d652b63c3&v=4" width="300" heigth="300">
 </p>
 
 
