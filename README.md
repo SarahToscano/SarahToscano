@@ -17,6 +17,7 @@
   
 🎓 **Computer Engineering Undergraduate Student - [Universidade Federal da Paraíba](https://www.ufpb.br/)**
 
+📌 **IEEE Member since 2017**
 
 
 ---
