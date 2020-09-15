@@ -15,7 +15,13 @@ ___
 
 ___
 
-  ![SAndradeTC github stats](https://github-readme-stats.vercel.app/api?username=SAndradeTC&show_icons=true&hide_border=true) <a href="https://github.com/SAndradeTC/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAndradeTC&layout=compact&hide_border=true"/></a>
+  
+<p align="center">
+  <a href="https://github.com/SAndradeTC">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SAndradeTC&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAndradeTC&theme=vue&layout=compact" />
+  </a>
+</p>
 
 
 ## :information_source: Sobre
