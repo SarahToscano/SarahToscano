@@ -15,22 +15,25 @@ ___
 
 ___
 
-![Sarah's github stats](https://github-readme-stats.vercel.app/api?username=SAndradeTC&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAndradeTC&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<a href="https://github.com/mateustoin">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SAndradeTC&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAndradeTC&theme=radical&layout=compact&langs_count=8" />
+</a>
+</p>
 
 
 
-
-
+---
 ## :information_source: Sobre
   
 🎓 Estudante de **Engenharia da Computação - [Universidade Federal da Paraíba](https://www.ufpb.br/)**
 
-## :interrobang: Contato
 
-- :e-mail: Fale comigo: **[satc1624@gmail.com](mailto://satc1624@gmail.com)** 
 
+---
 ## :rocket: Tecnologias Utilizadas
+
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/SAndradeTC)](https://github.com/SAndradeTC) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/caiovictos)](https://github.com/SAndradeTC) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/caiovictors)](https://github.com/SAndradeTC) 
 
@@ -38,11 +41,14 @@ ___
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/SAndradeTC)](https://github.com/SAndradeTC)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/SAndradeTC)](https://github.com/SAndradeTC)
 
-### Redes Sociais 👓
 
-|  <a href="https://github.com/SAndradeTC/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Sarah Carvalho](https://github.com/SAndradeTC/)**                                                                                |
-|</a> <a href="https://www.instagram.com/SAndradeTC/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="32px" height="32px"></a> <a href="https://www.facebook.com/SAndradeTC"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/caio-victor-do-amaral-cunha-sarmento-9779a21b0/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> 
+---
+### Contato
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SAndradeTC)
+
+<p align='center'>
+<a href="https://www.linkedin.com/in/sarah-andrade-toscano-de-carvalho-910835187/"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/sarah_atc/"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/instagram-sketched.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:satc1624@ieee.org"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/email.png?raw=true"></a>
+<a href="http://lattes.cnpq.br/2193759008262523"><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxvl5aTRdDN08KtGujI9jxLxZFbAYE3yH-zA&usqp=CAU"></a>
+</p>
