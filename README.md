@@ -2,6 +2,8 @@
   <img width="300" height="220" src='https://data.whicdn.com/images/293246292/original.gif' enconde></img>
 </p>
 
+---
+
 <p align="center">
 <a href="https://github.com/SAndradeTC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SAndradeTC&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
