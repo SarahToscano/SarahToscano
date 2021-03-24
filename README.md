@@ -10,7 +10,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Sarah%20Andrade-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarah-andrade-toscano-de-carvalho-910835187/)](https://www.linkedin.com/in/sarah-andrade-toscano-de-carvalho-910835187/) 
 [![Instagram Badge](https://img.shields.io/badge/-@Sarah_atc-6633cc?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sarah_atc/)](https://www.instagram.com/sarah_atc/)
 
-Enthusiast of hardware description, artificial intelligence, best web, and development technologies.
+Enthusiast of hardware description, artificial intelligence, best web and development technologies.
 
 
 <p align="center">
