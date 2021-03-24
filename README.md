@@ -5,8 +5,10 @@
 
 # I'm Sarah Andrade 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sarah%20Andrade-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarah-andrade-toscano-de-carvalho-910835187/)](https://www.linkedin.com/in/sarah-andrade-toscano-de-carvalho-910835187/) 
+
 [![Gmail Badge](https://img.shields.io/badge/-satc1624@ieee.org-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:satc1624@ieee.org)](mailto:satc1624@ieee.org)
+[![Linkedin Badge](https://img.shields.io/badge/-Sarah%20Andrade-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarah-andrade-toscano-de-carvalho-910835187/)](https://www.linkedin.com/in/sarah-andrade-toscano-de-carvalho-910835187/) 
+[![Instagram Badge](https://img.shields.io/badge/-@Sarah_atc-6633cc?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sarah_atc/)](https://www.instagram.com/sarah_atc/)
 
 Enthusiast of hardware description, artificial intelligence, best web, and development technologies.
 
@@ -64,6 +66,7 @@ In my resarch projects at Digital Systems Laboratory from UFPB I has been develo
 ---
 
 ### Technologies:
+
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -76,19 +79,8 @@ In my resarch projects at Digital Systems Laboratory from UFPB I has been develo
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+
 <code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhbhjG3f6iomSTg3Hb7IhQqpcb3hOXQjoeZw&usqp=CAU"></code>
 <code><img height="25" src="https://previews.123rf.com/images/ylivdesign/ylivdesign1905/ylivdesign190500427/122637427-computer-processor-icon-outline-computer-processor-vector-icon-for-web-design-isolated-on-white-back.jpg"></code>
 
 
-
----
-### Contact
-
-
-
-<p align='center'>
-<a href="https://www.linkedin.com/in/sarah-andrade-toscano-de-carvalho-910835187/"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/sarah_atc/"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/instagram-sketched.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:satc1624@ieee.org"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/email.png?raw=true"></a>
-<a href="http://lattes.cnpq.br/2193759008262523"><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxvl5aTRdDN08KtGujI9jxLxZFbAYE3yH-zA&usqp=CAU"></a>
-</p>
