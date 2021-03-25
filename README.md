@@ -15,7 +15,7 @@ Enthusiast of hardware description, artificial intelligence, best web and develo
 <p align="center">
 <a href="https://github.com/SarahToscano/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SarahToscano&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahToscano&theme=radical&layout=compact&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahToscano&theme=radical&layout=compact&langs_count=10" />
 </a>
 </p>
 
