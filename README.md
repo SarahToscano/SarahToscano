@@ -32,11 +32,12 @@ I'm on the third year of Computer Engineering Undergraduate at [Universidade Fed
 💻 **FullStack Web Developer**
 
 I do my internership at Paraíba State Court of Auditors (in portuguese, Tribunal de Contas do Estado da Paraíba - TCE PB) as Fullstack Web Developer, where I perform problem analysis, solution design, coding and tests (TestDriven Development - TDD). 
+
 Technologies used: API Java (SpringBoot), Java Script, Angular, TypeScript, API Rest and Oauth2.
 
 ⚙️ **Hardware Developer**
 
-In my resarch projects at Digital Systems Laboratory from UFPB I has been developing a real time simulator of energy power systems in a Field Programmable Gate Array (FPGA). Then, I use Verilog to create the project modules and VHDL/System verilog to its verification tests. I create an web interface to this simulator to facilitate the developement of module design for users, it was developed with React and Node.js.
+In my resarch projects at Digital Systems Laboratory from UFPB I has been developing a real time simulator of energy power systems in a Field Programmable Gate Array (FPGA). Then, I use Verilog to create the project modules and VHDL/System verilog to its verification tests. I created a web interface to facilitate the developement of module design for users. it was developed with React and Node.js.
 
 
 ---
