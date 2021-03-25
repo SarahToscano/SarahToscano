@@ -8,6 +8,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-satc1624@ieee.org-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:satc1624@ieee.org)](mailto:satc1624@ieee.org)
 [![Linkedin Badge](https://img.shields.io/badge/-Sarah%20Andrade-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarah-andrade-toscano-de-carvalho-910835187/)](https://www.linkedin.com/in/sarah-andrade-toscano-de-carvalho-910835187/) 
+
 Enthusiast of hardware description, artificial intelligence, best web and development technologies.
 
 
