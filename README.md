@@ -80,7 +80,8 @@ In my resarch projects at Digital Systems Laboratory from UFPB I has been develo
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
-<code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhbhjG3f6iomSTg3Hb7IhQqpcb3hOXQjoeZw&usqp=CAU"></code>
 <code><img height="25" src="https://previews.123rf.com/images/ylivdesign/ylivdesign1905/ylivdesign190500427/122637427-computer-processor-icon-outline-computer-processor-vector-icon-for-web-design-isolated-on-white-back.jpg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 
 
