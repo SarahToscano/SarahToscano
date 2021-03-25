@@ -65,7 +65,7 @@ In my resarch projects at Digital Systems Laboratory from UFPB I has been develo
 ---
 
 
-📌 **Institute of Electrical and Electronics Engineers (IEEE) Trajetory**
+## 📌 **Institute of Electrical and Electronics Engineers (IEEE) Trajetory**
 
 - IEEE UFPB WIE Affinity Group Committee member (2017-2018);
 - IEEE UFPB WIE Affinity Group Vice-chair (2018);
@@ -78,9 +78,14 @@ In my resarch projects at Digital Systems Laboratory from UFPB I has been develo
 - Member of IEEE PES Global Student Congress Organizing Committee(2020);
 - IEEE PES Global Student Congress Publicity Committee Lead (R9) (2020);
 - IEEE PES Day R9 (Brazil) Leader (2021);
-- Member of IEEE PES HAC HTPDC Organizing Committee (2021);
+- Member of IEEE PES HAC HTPDC Organizing Committee (2021).
 
-🏆 **Achievements**
+
+---
+
+
+
+## 🏆 **Achievements**
 
 - Outstanding PES Volunteer Award of IEEE Northeast Brazil Section (2020);
 - Third place in the artificial intelligence competition (DatathONS) promoted by National Electric System Operator - ONS (2020);
